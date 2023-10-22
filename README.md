@@ -1,11 +1,11 @@
 # MINISHELL
 
 ## Summary:
-This project is about creating a simple shell.
+This group project is about creating a simple shell.
 
 ## MANDATORY PART:
 
-Your shell should:
+Our shell can:
 
 •Display a prompt when waiting for a new command.
 
@@ -67,8 +67,13 @@ leaks.
 
 ## BONUS PART:
 
-Your program has to implement:
+Our program has to implement:
 
 •&& and || with parenthesis for priorities.
 
 •Wildcards * should work for the current working directory.
+
+## Peer evaluations video:
+by hashly
+ - [first video](https://drive.google.com/file/d/1PUtAYNZFw4-5zMyqTl78y0cn8q5U3Drg/view?usp=sharing)
+ - [second video](https://www.youtube.com/watch?v=RmrT1FMzX18&ab_channel=sk0tina)
